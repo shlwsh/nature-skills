@@ -37,7 +37,7 @@ If you have any feature requests or suggestions, please feel free to submit an I
   <tr>
     <td width="34%" valign="top" align="center" style="border: none; background-color: #f9f9f9; padding: 20px; border-radius: 8px;">
       <span style="font-size: 14px; color: #666;">微信群聊</span><br>
-      <img width="1080" height="1632" alt="feae2bf93421fbf99d21f20f2cf5562a" src="https://github.com/user-attachments/assets/388f4f6c-9f3e-4582-8136-e15676dff889" />
+      <img width="1080" height="1632" alt="d5d363362ff7abc00a1a1b82b842f65c" src="https://github.com/user-attachments/assets/83aee670-fcb4-44d9-9bae-cf5ca39f555c" />
       <div style="margin-top:10px; font-size: 13px; color: #666;">答疑交流群！进群请立刻改备注</div>
     </td>
     <td width="66%" valign="top" style="border: none; line-height: 1.6;">
