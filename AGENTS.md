@@ -41,3 +41,7 @@ This project is indexed by GitNexus as **nature-skills** (6241 symbols, 8627 rel
 | Index, status, clean, wiki CLI commands | `.claude/skills/gitnexus/gitnexus-cli/SKILL.md` |
 
 <!-- gitnexus:end -->
+
+## Communication Rules
+
+- **强制要求**：所有上下文沟通以及文档全部用中文输出 (All context communication and documentation must be output in Chinese).
